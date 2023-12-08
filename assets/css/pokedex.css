@@ -156,6 +156,7 @@
     border-radius: .6rem;
     font-size: .825rem;
     box-shadow: 10px 10px 13px -3px rgba(0,0,0,0.44);
+    cursor: pointer;
 }
 
 .pagination button:hover {
