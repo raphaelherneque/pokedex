@@ -1,0 +1,35 @@
+normal #9f9e72
+
+fire #f67639
+
+water #557ee7
+
+grass #62c254
+
+electrk #fdcb45
+
+ice #85cfd2
+
+ground #dfb966
+
+flying #a07fe8
+
+poison #9c3390
+
+fighting #bf2d28
+
+psychic #ff4d7d
+
+dark #6b4f43
+
+rock #b69a41
+
+bug #a1b135
+
+ghost #654b8a
+
+steel #b1adc8
+
+dragon #6820ec
+
+fairy #fea2c0
